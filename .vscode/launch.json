@@ -8,7 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
-            "file": "C:\\Users\\shubh\\OneDrive\\Desktop\\3qsutantra\\3qsutantraaa\\startup-website-template\\index.html"
+            "file": "${workspaceFolder}/3qsutantraaa/startup-website-template/index.html"
         }
     ]
 }

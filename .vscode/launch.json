@@ -8,7 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
-            "file": "${workspaceFolder}/3qsutantraaa/startup-website-template/index.html"
+            "file": "${workspaceFolder}/3qsutantraaa/3q-website/index.html"
         }
     ]
 }
